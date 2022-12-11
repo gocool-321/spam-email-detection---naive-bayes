@@ -1,0 +1,5 @@
+fastapi
+pickle5
+numpy
+pandas
+scikit-learn
